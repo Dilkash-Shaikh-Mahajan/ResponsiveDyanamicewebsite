@@ -4,6 +4,7 @@ require('./src/db/conn');
 const User = require('./src/models/contact');
 const path = require('path');
 const hbs = require('hbs');
+const port = Process.env.PORT || 3000
 
 const staticPath = path.join(__dirname, 'public');
 const templatePath = path.join(__dirname, 'templates/views');
