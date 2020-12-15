@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dilkash Shaikh Mahajan",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.5.3",
